@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "diagram_type": "Sequence",
+  "title": "Sequence Diagram Example",
+  "width": 1200.0,
+  "height": 800.0,
+  "nodes": [
+    {
+      "type": "ImplicitParameterNode",
+      "id": "seq-1",
+      "name": "client:Browser",
+      "x": 100.0,
+      "y": 40.0,
+      "width": 110.0,
+      "height": 40.0,
+      "lifeline_length": 350.0,
+      "parent_id": null
+    }
+  ],
+  "edges": []
+}

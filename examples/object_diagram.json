@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "diagram_type": "Object",
+  "title": "Object Diagram Example",
+  "width": 1200.0,
+  "height": 800.0,
+  "nodes": [
+    {
+      "type": "ObjectNode",
+      "id": "obj-1",
+      "name": "o1:Order",
+      "x": 100.0,
+      "y": 100.0,
+      "width": 140.0,
+      "height": 70.0,
+      "parent_id": null,
+      "field_ids": []
+    }
+  ],
+  "edges": []
+}

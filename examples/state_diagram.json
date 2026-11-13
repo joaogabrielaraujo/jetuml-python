@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "diagram_type": "State",
+  "title": "State Diagram Example",
+  "width": 1200.0,
+  "height": 800.0,
+  "nodes": [
+    {
+      "type": "InitialStateNode",
+      "id": "st-init",
+      "x": 100.0,
+      "y": 120.0,
+      "width": 24.0,
+      "height": 24.0,
+      "parent_id": null
+    }
+  ],
+  "edges": []
+}

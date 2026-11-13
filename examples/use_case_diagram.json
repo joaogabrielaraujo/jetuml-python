@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "diagram_type": "Use Case",
+  "title": "Use Case Diagram Example",
+  "width": 1200.0,
+  "height": 800.0,
+  "nodes": [
+    {
+      "type": "ActorNode",
+      "id": "actor-1",
+      "name": "Customer",
+      "x": 80.0,
+      "y": 120.0,
+      "width": 60.0,
+      "height": 80.0,
+      "parent_id": null
+    }
+  ],
+  "edges": []
+}

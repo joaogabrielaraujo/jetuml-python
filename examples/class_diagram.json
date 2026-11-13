@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "diagram_type": "Class",
+  "title": "Class Diagram Example",
+  "width": 1200.0,
+  "height": 800.0,
+  "nodes": [
+    {
+      "type": "ClassNode",
+      "id": "node-1",
+      "name": "User",
+      "attributes": "- id: int\n- email: str",
+      "methods": "+ login(): bool",
+      "x": 80.0,
+      "y": 100.0,
+      "width": 150.0,
+      "height": 90.0,
+      "parent_id": null
+    }
+  ],
+  "edges": []
+}
